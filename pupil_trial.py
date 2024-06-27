@@ -250,7 +250,7 @@ if __name__ == '__main__':
     """
     you should modify the following with your own data
     """
-    DATA_FOLDER = Path("/home/bubblepepper/Downloads/expdata")
+    DATA_FOLDER = Path("./expdata")
     SUB=111801
     TRIAL=1
     STIMPATH=f'{DATA_FOLDER}/stimuli.jpg'
